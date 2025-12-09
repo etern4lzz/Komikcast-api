@@ -20,4 +20,4 @@ Endpoint yang tersedia adalah
 | *http://localhost:3000/api/manga* |
 
 # Licensi
-Projek ini dilisensikan oleh [ MIT ]()
+Projek ini dilisensikan oleh [ MIT ] (https://github.com/etern4lzz/Komikcast-api/blob/etern4lzz-patch-1/LICENSE)
